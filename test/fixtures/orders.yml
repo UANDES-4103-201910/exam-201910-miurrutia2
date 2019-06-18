@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  shipping_address: MyString
+  billing_adress: MyString
+  references: 
+  references: 
+
+two:
+  shipping_address: MyString
+  billing_adress: MyString
+  references: 
+  references: 
